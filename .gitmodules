@@ -1,0 +1,63 @@
+[submodule "third-party/zlib"]
+	path = third-party/zlib
+	url = https://github.com/madler/zlib
+[submodule "third-party/protobuf"]
+	path = third-party/protobuf
+	url = https://github.com/protocolbuffers/protobuf
+[submodule "third-party/googletest"]
+	path = third-party/googletest
+	url = https://github.com/google/googletest
+[submodule "third-party/glog"]
+	path = third-party/glog
+	url = https://github.com/google/glog
+[submodule "third-party/gflags"]
+	path = third-party/gflags
+	url = https://github.com/gflags/gflags
+[submodule "third-party/leveldb"]
+	path = third-party/leveldb
+	url = https://github.com/google/leveldb.git
+[submodule "third-party/snappy"]
+	path = third-party/snappy
+	url = https://github.com/google/snappy
+[submodule "third-party/crc32c"]
+	path = third-party/crc32c
+	url = https://github.com/google/crc32c.git
+[submodule "third-party/openssl"]
+	path = third-party/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "third-party/jsoncpp"]
+	path = third-party/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "third-party/aws-sdk-cpp"]
+	path = third-party/aws-sdk-cpp
+	url = https://github.com/aws/aws-sdk-cpp.git
+[submodule "third-party/curl"]
+	path = third-party/curl
+	url = https://github.com/curl/curl.git
+[submodule "third-party/libuuid-cmake"]
+	path = third-party/libuuid-cmake
+	url = https://github.com/gershnik/libuuid-cmake.git
+[submodule "third-party/rocksdb"]
+	path = third-party/rocksdb
+	url = https://github.com/facebook/rocksdb
+[submodule "third-party/memcache"]
+	path = third-party/memcache
+	url = https://github.com/awesomized/libmemcached
+[submodule "third-party/libfiu"]
+	path = third-party/libfiu
+	url = https://github.com/albertito/libfiu
+[submodule "third-party/brpc"]
+	path = third-party/brpc
+	url = https://github.com/dingodb/brpc
+[submodule "third-party/braft"]
+	path = third-party/braft
+	url = https://github.com/dingodb/braft
+[submodule "third-party/fmt"]
+	path = third-party/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "third-party/spdlog"]
+	path = third-party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "third-party/incbin"]
+	path = third-party/incbin
+	url = https://github.com/graphitemaster/incbin.git
